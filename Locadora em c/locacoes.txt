@@ -1,0 +1,56 @@
+locacao inicio
+  numero 1
+  datRetira 12/06/2020
+  seguro nao
+  qtdDiarias 7
+  codCliente 1
+  codVeiculo 5
+  andamento nao
+  avaliacao 3
+locacao fim
+
+ locacao inicio
+  numero 2
+  datRetira 15/06/2020
+  seguro nao
+  qtdDiarias 7
+  codCliente 2
+  codVeiculo 6
+  andamento nao
+  avaliacao 5
+locacao fim
+
+ locacao inicio
+  numero 3
+  datRetira 12/05/2022
+  seguro sim
+  qtdDiarias 7
+  codCliente 5
+  codVeiculo 1
+  andamento nao
+  avaliacao 5
+locacao fim
+
+ locacao inicio
+  numero 4
+  datRetira 26/06/2022
+  seguro sim
+  qtdDiarias 7
+  codCliente 8
+  codVeiculo 5
+  andamento nao
+  avaliacao 4
+locacao fim
+
+ locacao inicio
+  numero 5
+  datRetira 07/07/2022
+  seguro sim
+  qtdDiarias 8
+  codCliente 9
+  codVeiculo 7
+  andamento nao
+  avaliacao 5
+locacao fim
+
+ 

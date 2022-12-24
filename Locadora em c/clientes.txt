@@ -1,0 +1,126 @@
+
+
+Cliente inicio
+  numero  1
+  nome Joao Senna
+  cnh 123456
+  celular 999901234
+  rua rua do luar
+  numero n100 Santa Fe
+  bairro Santa Fe
+  cidade Belo Horizonte
+  fidelidade 0
+cliente fim
+
+
+
+Cliente inicio
+  numero  2
+  nome Luiz Piquet
+  cnh 123456
+  celular 999902222
+  rua rua da gandaia
+  numero n100 Santa Fe
+  bairro Santa Fe
+  cidade Belo Horizonte
+  fidelidade 0
+cliente fim
+
+
+
+Cliente inicio
+  numero  3
+  nome Neymar Jose
+  cnh 123456
+  celular 999903333
+  rua rua do ouro
+  numero n100
+  bairro Santa Fe
+  cidade Belo Horizonte
+  fidelidade 0
+cliente fim
+
+
+
+Cliente inicio
+  numero  4
+  nome diego
+  cnh 1234213
+  celular 99928392
+  rua valdomiro lobao da silva
+  numero 190
+  bairro jaquim
+  cidade belo horizonte
+  fidelidade 50
+cliente fim
+
+
+
+Cliente inicio
+  numero  5
+  nome joauqi
+  cnh 39348482
+  celular 3199927832520
+  rua Rua larissio
+  numero 93
+  bairro lafaete
+  cidade belo horizonte
+  fidelidade 520
+cliente fim
+
+
+
+Cliente inicio
+  numero  6
+  nome paulin ortiz
+  cnh 8238773
+  celular 319999374230
+  rua kapadoce
+  numero 93
+  bairro lafaete
+  cidade belo horizonte
+  fidelidade 30
+cliente fim
+
+
+
+Cliente inicio
+  numero  7
+  nome dhominny luis
+  cnh 7272332
+  celular 318282732320
+  rua Joaquim clemente 
+  numero 32
+  bairro xodo marize
+  cidade Belo Horizonte
+  fidelidade 20
+cliente fim
+
+
+
+Cliente inicio
+  numero  8
+  nome Maria laura
+  cnh 2395342
+  celular 319993842310
+  rua Rua eugeni
+  numero 034
+  bairro floramar
+  cidade Belo Horizontwe
+  fidelidade 10
+cliente fim
+
+
+
+Cliente inicio
+  numero  9
+  nome Pedro macedo
+  cnh 2382893812
+  celular 31 999625710
+  rua Rua macedonia do norte
+  numero 192
+  bairro Alfa
+  cidade Belo Horizonte
+  fidelidade 10
+cliente fim
+

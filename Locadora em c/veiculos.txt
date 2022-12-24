@@ -1,0 +1,98 @@
+veiculo inicio
+  numero 1
+  descricao carro com leve arran
+  modelo Commander
+  cor preta
+  placa ROT0G44
+  vDiaria 220
+  marca Jeep
+  ano 2022
+ categoria SUV
+  ocupantes 7
+  status livre
+veiculo fim
+
+veiculo inicio
+  numero 2
+  descricao sem detalhes
+  modelo Outlander
+  cor branca
+  placa PVX6180
+  vDiaria 180
+  marca Mitshubich
+  ano 2015
+ categoria SUV
+  ocupantes 7
+  status livre
+veiculo fim
+
+veiculo inicio
+  numero 3
+  descricao veiculo sem detalhes
+  modelo Corola
+  cor cinza
+  placa QQK2760
+  vDiaria 130
+  marca Toyota
+  ano 2020
+ categoria Sedan
+  ocupantes 4
+  status livre
+veiculo fim
+
+veiculo inicio
+  numero 4
+  descricao veiculo amassado na lateral
+  modelo Corola
+  cor preta
+  placa PWJ7247
+  vDiaria 145
+  marca Toyota
+  ano 2015
+ categoria SUV
+  ocupantes 7
+  status manutencao
+veiculo fim
+
+veiculo inicio
+  numero 5
+  descricao sem descricao
+  modelo Fit
+  cor branco
+  placa HFW6853
+  vDiaria 110
+  marca Honda
+  ano 2012
+ categoria Hatch
+  ocupantes 4
+  status locado
+veiculo fim
+
+veiculo inicio
+  numero 6
+  descricao veiculo inteiro
+  modelo Fit
+  cor preta
+  placa OPN4663
+  vDiaria 136
+  marca Honda
+  ano 2017
+ categoria Hatch
+  ocupantes 4
+  status livre
+veiculo fim
+
+veiculo inicio
+  numero 7
+  descricao Em um teste realizado em 2 de agosto de 2019, o piloto Andy Wallace alcanáou a marca de 490.48 km/h em uma vers∆o modificada do Bugatti Chiron.
+  modelo Bugatti Chiron
+  cor preto
+  placa MDJ2685
+  vDiaria 800
+  marca Volkswagen
+  ano 2019
+ categoria superesportivo
+  ocupantes 2
+  status livre
+veiculo fim
+
